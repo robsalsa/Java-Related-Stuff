@@ -1,5 +1,5 @@
-# Java-Related-Stuff
-A bunch of Java Projects that I made through my time in college
+# Simple Java Programs
+A bunch of Java Projects that I made using IDE Eclipse (Java). The reason that they are here is because my IDE stopped working one day and I now have them here. Nothing special about these programs.
 
 
 
